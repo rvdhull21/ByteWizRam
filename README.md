@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/bytewizshubham/bytewizshubham/main/banner2.png"> </div>
 <h3 align="center">A passionate Java Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bytewizshubham&label=Profile%20views&color=0e75b6&style=flat" alt="bytewizshubham" /> </p>
 
-- 🔭 I’m currently working on **Fintek Software Services**
+- 🔭 I’m currently working at **Fintek Software Services**
 
 - 📫 How to reach me **shubham.javadev@gmail.com**
 
