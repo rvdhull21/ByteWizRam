@@ -4,7 +4,14 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bytewizshubham&label=Profile%20views&color=0e75b6&style=flat" alt="bytewizshubham" /> </p>
 
+
 - 🔭 I’m currently working at **Fintek Software Services**
+
+- 🌱 I’m currently learning **Spring Boot AND Microservices**
+
+- 👨‍💻 All of my projects are available at [https://github.com/bytewizshubham](https://github.com/bytewizshubham)
+
+- 💬 Ask me about **Java, Spring Boot & Microservices**
 
 - 📫 How to reach me **shubham.javadev@gmail.com**
 
